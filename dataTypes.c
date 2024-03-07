@@ -1,3 +1,4 @@
+
 //Data Types
 //As explained in the Variables chapter, a variable in C must be a specified data type, and you must use a format specifier inside the printf() function to display it:
 
